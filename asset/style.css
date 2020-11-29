@@ -1,0 +1,268 @@
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+ .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.image_bar {
+  background-image: url("https://miro.medium.com/max/10836/1*5lpiSFo6j5dhrr6Z6RFd8Q.jpeg");
+  background-size: cover;
+  -ms-background-position-x: center;
+  -ms-background-position-y: bottom;
+  background-position: center bottom;
+  margin-top: 4%;
+  width: 100%;
+  height: 800px;
+  display: inline-block;
+}
+
+.jumbotron {
+  background: none;
+  align-content: center;
+  margin: 1% 5%;
+}
+
+.text-block {
+  margin: 0 auto;
+  margin-top: 3%;
+  width: 80%;
+  height: 90%;
+  color: white;
+  border-radius: 15px;
+}
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.poppins-w {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+.opaque {
+    background: rgba(153, 158, 153, 0.65);
+}
+
+.inner-card-text {
+  font-size: 16px;
+  margin: 5% 8%;
+  width: 65%;
+  overflow: scroll;
+}
+
+/*  */
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+#connect-button {
+  background-color:grey;
+  color: white;
+  font-size: 16px;
+  align-content: center;
+  border: none;
+  border-radius: 50px;
+  padding: 1rem 3rem;
+  margin-left: 10%;
+  /* width: 100px; */
+}
+
+
+*/ .container {
+  margin: 0 auto;
+  padding: 5%;
+  width: 100%;
+  height: auto;
+}
+
+
+footer {
+  font-size: 18px;
+  height: 80px;
+  padding-top: 20px;
+}
+
+.inner-card-text {
+  font-size: 16px;
+  margin: 5% 8%;
+  width: 65%;
+  overflow: scroll;
+}
+
+
+
+.input-container {
+  margin-left: 10%;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  max-width: 980px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  resize: vertical;
+}
+
+.jumbotron {
+  background: none;
+  align-content: center;
+  /* font-size: 65px; */
+  margin: 1% 5%;
+  /* font-family: 'Poppins', sans-serif; */
+}
+
+#letsconnect {
+  background: transparent;
+}
+
+.margin {
+  margin: 0 auto;
+}
+
+#my-experience {
+  margin: 8%;
+}
+
+.nav-link {
+  font-size: 18px;
+  color: goldenrod;
+  margin: 4%;
+}
+
+.opaque {
+  background: rgba(29, 31, 29, 0.65);
+}
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.poppins-w {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+*/ #sweet-pic {
+  max-width: 50%;
+}
+
+.text-block {
+  margin: 0 auto;
+  margin-top: 3%;
+  width: 80%;
+  height: 90%;
+  color: white;
+  border-radius: 15px;
+  /* overflow: scroll; */
+}
+
+
+#tagline {
+  color:grey;
+  font-size: 24px;
+}
+
+.thumbnail {
+  border-radius: 50%;
+}
+
+.wht-fnt {
+  color: white;
+}
+
+/* My image */
+#my-pic{
+  max-width: 15%;
+}
+
+#about-me-title{
+  text-align: center;
+}
+
+#content{
+  text-align: center;
+}
+
+#education-title{
+  text-align: center;
+}
+
+#school-input{
+  text-align: center;
+}
+
+#projects{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+#home{
+  color:orange;
+}
+
+#title {
+  color:grey;
+  font-size: 24px;
+}
+
+#project1{
+  color:black;
+}
+
+#project2{
+  color:black;
+}
